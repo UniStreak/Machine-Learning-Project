@@ -1,1 +1,4 @@
-# Machine-Learning-Project
+# Machine Learning Project
+
+The problem I am trying to solve in this project is the non-personalized book purchasing experience. I've tried to solve the book buying problems here. In this way, someone will be able to access the recommendations based on the book bought by him/her. Actually, most people have an online experience where a website makes personalized recommendations in hopes of future sales or ongoing traffic. Amazon tells you “Customers Who Bought This Item Also Bought”, Udemy tells you “Students Who Viewed This Course Also Viewed”. Based on all this, I have developed a book suggestion system in this project. These personalized recommendations are so important, because it affects user experience and sales well. Also, Netflix awarded* a $1 million prize to a developer team in 2009, for an algorithm that increased the accuracy of the company’s recommendation system by 10 percent. 
+(*According to https://www.wired.com/2012/04/netflix-prize-costs/)
